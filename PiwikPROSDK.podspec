@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "PiwikPROSDK"
-  s.version      = "1.2.3"
+  s.version      = "1.2.3-pincamp"
   s.summary      = "Piwik PRO SDK for iOS"
 
   s.description  = "SDK for iOS to measure your apps with Piwik PRO"
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.platform     = :ios, "9.0"
+  s.platform     = :ios, "12.0"
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
